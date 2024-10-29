@@ -29,7 +29,7 @@ N/A
 Here's a walkthrough of implemented user stories:
 
 <img src='videoWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='videoWalkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='videoWalkthroughpart2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap  
