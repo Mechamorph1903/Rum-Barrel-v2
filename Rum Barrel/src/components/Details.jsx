@@ -24,7 +24,7 @@ const Details = () => {
   return (
     <div className='details'>
       <h4><strong>{brewery.name}</strong></h4>
-      <h5><strong>Located In:</strong> {brewery.street}, {brewery.city}, {brewery.state}. {brewery.postal_code}</h5>
+      <h5><strong>Located At:</strong> {brewery.street}, {brewery.city}, {brewery.state}. {brewery.postal_code}</h5>
       <h5><strong>Type:</strong> {brewery.brewery_type}</h5>
       <h5><strong>Phone:</strong> {brewery.phone}</h5>
       <h5><strong>Website:</strong> <a href={brewery.website_url} target="_blank" rel="noreferrer">{brewery.name}</a></h5>

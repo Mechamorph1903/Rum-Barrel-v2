@@ -1,5 +1,7 @@
 import React from "react";
 import { useState, useEffect } from 'react';
+import { Link } from "react-router-dom";
+import BarChart from "./BreweryBarChart";
 
 const SearchPage = () => {
 
@@ -130,13 +132,14 @@ const SearchPage = () => {
                         <td>{brewery.name}</td>
                         <td>{brewery.city}, {brewery.state}</td>
                         <td>{brewery.brewery_type}</td>
-                        <td><a href={brewery.website_url === null ? "N/A": brewery.website_url}>{brewery.name}</a></td>
+                        <td> <Link to={`/brewery/${brewery.id}`} className="navButton">🍻</Link></td>
                     </tr>
                 )
             })}
                 </tbody>
            </table>)}
            </div>
+           <BarChart breweries={breweries} className="bar"/>
         </div>
     )
 }
