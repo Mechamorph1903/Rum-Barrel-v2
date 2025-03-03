@@ -1,32 +1,15 @@
-# Web Development Project 6 - *Rum Barrel v2*
+# **Rum Barrel v2: A Brewery Locator App**
 
-Submitted by: **Daniel Anorue**
+**Rum Barrel** (v2) is a web application that helps users discover breweries in a specified location, providing detailed information and a **new** visual analysis of the data.
 
-This web app: **Displays a list of brewries in a particular location that is entered by the user, also consists of detail pages for each page and a bar chart for analysis**
-
-Time spent: **4** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [x] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
-- [x] **Clicking on an item in the list view displays more details about it**
-  - [x] To ensure an accurate grade, your sidebar **must** be viewable when showing the details view in your recording.
-- [x] **Clicking on an item has a direct, unique link to that item's detail view page**
-  - [x] To ensure an accurate grade, the URL/address bar of your web browser **must** be viewable in your recording.  
-
-The following **optional** features are implemented:
-
-- [ ] The site's customized dashboard contains more content that explains what is interesting about the data
-- [ ] The site allows users to toggle between different data visualizations
-The following **additional** features are implemented:
-
-N/A
+**Key Features:**
+- _Brewery Search_: Users can enter a location to find a list of breweries.
+- _Detail Pages_: Clicking on a brewery reveals more information on a dedicated page.
+- _Unique Chart_: A bar chart provides insights based on the fetched data.
+- _Direct Links_: Each brewery has a unique URL for easy sharing and navigation.
+- _Sidebar View_: Ensures visibility while browsing details.
 
 ## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
 
 <img src='videoWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='videoWalkthroughpart2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
