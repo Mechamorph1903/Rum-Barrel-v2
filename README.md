@@ -12,6 +12,8 @@
 ## Video Walkthrough
 
 <img src='videoWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+_**V2 with Visual Analysis**_
 <img src='videoWalkthroughpart2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
